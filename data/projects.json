@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "product-inventory-cli",
+    "title": "Product Inventory CLI",
+    "tagline": "A Python command-line tool for a small store's inventory",
+    "description": "A single-file Python 3 CLI that manages a small store's product inventory: add, list, get, update, and delete products, plus substring search and a store-wide value summary. Data persists as JSON with strict validation — prices are stored to exactly two decimals and money math uses exact decimal arithmetic. Built with the Python standard library only.",
+    "tech": ["Python", "JSON", "CLI"],
+    "repo": "",
+    "demo": ""
+  },
+  {
+    "slug": "vulrank",
+    "title": "VulRank",
+    "tagline": "AI-powered vulnerability prioritization for security teams",
+    "description": "VulRank helps security teams decide which software vulnerabilities (CVEs) to fix first. Instead of relying solely on CVSS severity scores, it combines CVSS, EPSS, CISA KEV, exploit availability, and NLP analysis of security advisories to estimate real-world exploitation risk — ranking vulnerabilities by exploit likelihood, potential impact, and urgency. The goal is vulnerability management that is more intelligent, explainable, and actionable than simply patching the highest severity scores.",
+    "tech": ["Python", "NLP", "Data Science"],
+    "repo": "",
+    "demo": ""
+  },
+  {
+    "slug": "cyclone-cnn",
+    "title": "Cyclone CNN",
+    "tagline": "Deep learning model that detects cyclones in satellite images",
+    "description": "Cyclone CNN uses a Convolutional Neural Network to analyze satellite images and classify cyclone-related weather patterns. The model learns visual features such as cloud formations, spiral structures, and storm patterns to identify cyclones automatically. It uses TensorFlow/Keras for image processing and classification, with a Flask-based web application that lets users upload images and receive predictions. The goal is to show how computer vision and deep learning can support automated cyclone detection and weather monitoring.",
+    "tech": ["Python", "TensorFlow", "Keras", "Flask"],
+    "repo": "",
+    "demo": ""
+  }
+]
