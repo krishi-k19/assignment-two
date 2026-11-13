@@ -19,7 +19,7 @@ export default function Home() {
           View my projects
         </Link>
         <Link
-          href="/contact-me-server-form"
+          href="/contact-me"
           className="rounded-full border border-zinc-300 px-5 py-2 text-sm font-medium transition-colors hover:bg-zinc-100 dark:border-zinc-700 dark:hover:bg-zinc-800"
         >
           Contact me

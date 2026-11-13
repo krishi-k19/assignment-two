@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "slug": "from-computer-science-to-business-analytics",
+    "title": "From Computer Science to Business Analytics",
+    "excerpt": "Why I traded low-level systems for data-driven decision making, and what my CS background still gives me every day.",
+    "content": "I started in computer science, spending late nights on algorithms, data structures, and operating systems. Somewhere along the way I noticed the questions I enjoyed most were not about how machines work, but about what the data coming out of them means.\n\nBusiness analytics turned out to be the perfect meeting point. It rewards the same structured thinking I learned in CS, but points it at messier, more human problems: which customers are about to leave, which risks are worth taking, which numbers can actually be trusted.\n\nThese days I am studying for my MS in Business Analytics at Santa Clara University, and I still lean on my engineering roots. Cleaning data, automating pipelines, and scripting my way out of repetitive work are all just programming with better questions attached.",
+    "tags": [
+      "Analytics",
+      "Career"
+    ],
+    "isPublic": true,
+    "createdAt": "2026-11-01T09:00:00.000Z",
+    "updatedAt": "2026-11-01T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "slug": "what-building-vulrank-taught-me",
+    "title": "What Building VulRank Taught Me About Prioritization",
+    "excerpt": "Security teams cannot patch everything at once. VulRank was my attempt to rank vulnerabilities by real-world risk instead of raw severity scores.",
+    "content": "CVSS severity scores tell you how bad a vulnerability could be, not how likely it is to be exploited. VulRank started as a question: what if we combined CVSS with EPSS, CISA KEV listings, and NLP analysis of advisories to estimate actual risk?\n\nBuilding it taught me three things. First, feature engineering matters more than model choice: the NLP features extracted from advisories carried most of the signal. Second, explainability is not optional; security analysts will not act on a black-box ranking. Third, the hardest problems in data science are usually prioritization problems in disguise.\n\nThe project pushed me toward AI that supports decisions rather than replacing them, which is the direction I want my career to go.",
+    "tags": [
+      "AI",
+      "Security",
+      "Projects"
+    ],
+    "isPublic": true,
+    "createdAt": "2026-11-05T12:30:00.000Z",
+    "updatedAt": "2026-11-05T12:30:00.000Z"
+  }
+]

@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "krishi",
+    "email": "k.k@gmail.com",
+    "message": "hihhhhhhhhhhhh",
+    "submittedAt": "2026-11-10T06:33:47.243Z"
+  },
+  {
+    "id": 2,
+    "name": "Krishi",
+    "email": "k@gmail.com",
+    "message": "hhhiiiiiiiii",
+    "submittedAt": "2026-11-10T06:41:03.383Z"
+  },
+  {
+    "id": 3,
+    "name": "Krishi",
+    "email": "krishi@gmail.com",
+    "message": "hiiiihfiibvf",
+    "submittedAt": "2026-11-10T06:46:16.650Z"
+  }
+]
